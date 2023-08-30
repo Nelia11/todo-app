@@ -1,0 +1,8 @@
+.counter {
+    border-radius: 50px;
+    background: #d4e0e3;
+    box-shadow: inset 20px 20px 60px #b4bec1,
+            inset -20px -20px 60px #f4ffff;
+    margin: 10px;
+    padding: 15px;
+}
